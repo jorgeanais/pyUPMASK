@@ -2,6 +2,7 @@
 
 A sklearn-like version of pyUPMASK.
 
+| Status: Under development
 
 ## Acknowledgment
 
